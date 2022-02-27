@@ -1,0 +1,388 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The King found at Southvvell, and the Oxford gigg playd, and sung at VVitney VVakes: vvith the masque shevved before divers courtiers, and cavaliers, that went thither from Oxford, and severall ketches and songs at the said vvakes. Presented to the Duke of Yorke. / By Mr. Loyd, studient of Christ Church in Oxford, and a captaine of that garison.</title>
+            <author>Lloyd, M., Captain.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88398</idno>
+            <idno type="STC">Wing L2662</idno>
+            <idno type="STC">Thomason E336_14</idno>
+            <idno type="STC">ESTC R200812</idno>
+            <idno type="EEBO-CITATION">99861450</idno>
+            <idno type="PROQUEST">99861450</idno>
+            <idno type="VID">159685</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88398)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159685)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E336[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The King found at Southvvell, and the Oxford gigg playd, and sung at VVitney VVakes: vvith the masque shevved before divers courtiers, and cavaliers, that went thither from Oxford, and severall ketches and songs at the said vvakes. Presented to the Duke of Yorke. / By Mr. Loyd, studient of Christ Church in Oxford, and a captaine of that garison.</title>
+                  <author>Lloyd, M., Captain.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for F.L.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Masques --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Personal narratives --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159685:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>THE KING Found at Southvvell, and the <hi>Oxford</hi> Gigg playd, and Sung at VVitney VVakes: VVith the Maſque shewed before divers Courtiers, and Cavaliers, that went thither from <hi>Oxford,</hi> and ſeverall Ketches and Songs at the ſaid VVakes.</p>
+            <p>Preſented to the Duke of <hi>YORKE.</hi>
+            </p>
+            <p>By Mr, <hi>Loyd,</hi> Studient of <hi>Christ Church</hi> in <hi>Oxford,</hi> and a Captaine of that Gariſon.</p>
+            <p>London printed for <hi>F. L.</hi> 1646:</p>
+         </div>
+      </front>
+      <body>
+         <div type="dedication">
+            <pb facs="tcp:159685:2"/>
+            <!-- PDF PAGE 2 -->
+            <pb n="3" facs="tcp:159685:2"/>
+            <!-- PDF PAGE 2 -->
+            <head>To the moſt Illuſtrious IAMES Duke of <hi>YORKE:</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">P</seg>Art of theſe Papers being already deſtin'd to your Highneſſes Recreation, the <hi>reſt</hi> (like divided Wormes) by reuniting to their <hi>peeces,</hi> are link't againe into an <hi>entire-nothing.</hi> All I pretend to here exceeds not the <hi>Pedlers</hi> Ambition, who in the ſtrength of his <hi>Portable VVarehouſe,</hi> ſwells into the title of a <hi>Mer<g ref="char:EOLhyphen"/>chant,</hi> and yet inſtead of <hi>Silkes</hi> and <hi>Tiſſues,</hi> receives them with nothing but <hi>Tapes,</hi> and Filletings. The Veſſell is here ſo <hi>unfraught</hi> and <hi>Empty,</hi> that it aimes at ſo <hi>Royall a Haven,</hi> not by deſigne of <hi>Commerce,</hi> or <hi>Trading,</hi> but <hi>ſhelter,</hi> and <hi>ſafety</hi> from <hi>tempestuous Cenſures,</hi> which is the greateſt Am<g ref="char:EOLhyphen"/>biton of your Highneſſe's</p>
+            <closer>
+               <signed>Moſt humble ſervant M. LL.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="4" facs="tcp:159685:3"/>
+            <!-- PDF PAGE 3 -->
+            <head>VVJTNEY WAKE:</head>
+            <p>
+               <hi>VVItney</hi> is a towne neere <hi>Oxford</hi> whither divers Cour<g ref="char:EOLhyphen"/>tiers, and Officers of <hi>Oxford</hi> Gariſon went to the <hi>VVakes</hi> to bee merry, where they ſung and drank themſelves out of all their ſences, on the <hi>VVake</hi> day early in the morning, they went out of <hi>Oxford</hi> ſinging this ſong, taught them by Captaine <hi>Loyd</hi> their <hi>Poet</hi> as followeth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="song">
+                        <p>At the meeting of the Courtiers and Cavaliers that had appointed to bee merry at <hi>VVitney</hi> Wake, Captaine <hi>LOYD</hi> ſung thus.</p>
+                        <lg>
+                           <l>I, and whether ſhall we goe?</l>
+                           <l>To the VVake I tro:</l>
+                           <l>Tis the <hi>Village.</hi>
+                           </l>
+                           <l>
+                              <hi>L. Majors</hi> ſh<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>w.</l>
+                           <l>Oh! to meet I will not faile,</l>
+                           <l>For my pallat is in haſt,</l>
+                           <l>Till J ſipp againe and taſt,</l>
+                           <l>Of the Nu<g ref="char:cmbAbbrStroke">̄</g>thr<g ref="char:cmbAbbrStroke">̄</g>own-Laſſe &amp; Ale.</l>
+                           <l>Feele how my Temples ake,</l>
+                           <l>For the Lady of the VVake.</l>
+                           <l>Hir lips are as ſoft as a <hi>Medler,</hi>
+                           </l>
+                           <l>VVith her Poſes and her poynts,</l>
+                           <l>And the Ribons on her joynts.</l>
+                           <l>The diviſe of the Fields</l>
+                           <l>and the Pedler.</l>
+                        </lg>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Then from <hi>Oxford</hi> ſinging this ſong, away they went over the Fields to <hi>VVitney</hi> to the Wakes.</p>
+            <p>Theſe <hi>Gallants</hi> being arived at <hi>VVitney;</hi> early in the morn<g ref="char:EOLhyphen"/>ing, (with their traine from <hi>Oxford</hi>) where they had appoint<g ref="char:EOLhyphen"/>ed certaine <hi>Morris-Dancers</hi> to meete them at the Wakes, as alſo ſeverall Muſitians with various ſorts of Muſicke, <hi>viz.</hi> the Country Fiders, a Taberer; a payre of bagge-Pipes, and an Harper, and being come to their quarters where they were re<g ref="char:EOLhyphen"/>ſolved to be merry, they firſt began to drink hard, but the <hi>Mor<g ref="char:EOLhyphen"/>ris-Dancers,</hi>
+               <pb n="5" facs="tcp:159685:3"/>
+               <!-- PDF PAGE 3 -->and the Muſick being ready to attend them, firſt of all began the <hi>Morris-Dancers</hi> to caper before them, with one who gave the Lords favour to divers Gentlemen that gave him ſome a ſhilling, ſome 6. ſome more, ſome leſſe, for the common ſtocke of the company, There were ſome 6. or 7. Country fellowes with Napkins, and Scarfes, and Ribons tyed about them, and bells at their knees, according to the manner of that ſport, and with them a <hi>Mayd-Marian,</hi> and two fooles, who fell a danſing and capering b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore the <hi>Oxford</hi> blades, and made them ſport a good while.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="song">
+                        <head>The Song at the entry of the <hi>Morris-Dancers</hi> before them.</head>
+                        <lg>
+                           <l>VVith a noyſe and a din,</l>
+                           <l>Comes the <hi>Morris-dancer</hi> in</l>
+                           <l>VVith a fine linnen ſhirt;</l>
+                           <l>But a <hi>buckeram</hi> skinne.</l>
+                           <l>O! he treads out ſuch a peale,</l>
+                           <l>From his paire of logs of Veale</l>
+                           <l>His quarters and Idolls to him,</l>
+                           <l>Nor doe thoſe knaves inviron</l>
+                           <l>Their toes with ſo much Iron</l>
+                           <l>Twill ruin a Smith to ſhooe him.</l>
+                           <l>J and then he flings about,</l>
+                           <l>His ſweate, and his Clout,</l>
+                           <l>The weſeſt thinke it too ells:</l>
+                           <l>While the Yeomen think it meet.</l>
+                           <l>That be jangle at his feete,</l>
+                           <l>The forherſe right eare jewells.</l>
+                        </lg>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Then the Fool with his baw<g ref="char:EOLhyphen"/>ble fell to ſeverall ſports, and to tumbling, &amp;c.</p>
+            <p>After that they had wearied both the <hi>Morris-Dancers,</hi> and themſelves too with this ſport, by which time they had well druke, they diſcharged them, and called for the Country Fid<g ref="char:EOLhyphen"/>lers, and accordingly there entred foure Country fellows, with a Tenor a Meane, a Treble, and a Baſe, who having playd ſome time before them, and they having danced a while with ſome Country Laſſes, the Gallants called for dinner, and then called in an old Fidler and his boy to play to them, and ſing whilſt they were at dinner, after with Mr. <hi>Loyd,</hi> he acted his part as followeth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="song">
+                        <pb n="6" facs="tcp:159685:4"/>
+                        <!-- PDF PAGE 4 -->
+                        <head>The ſong upon the Fidler and his boy that plaid and ſung to them at Dinner at the <hi>VVakes.</hi>
+                        </head>
+                        <lg>
+                           <l>But before all be don,</l>
+                           <l>with a <hi>Chriſtopher</hi> ſtrung,</l>
+                           <l>Comes <hi>Muſick</hi> none</l>
+                           <l>Though <hi>Fidler</hi> one,</l>
+                           <l>VVith the Oule &amp; his Gran<g ref="char:EOLhyphen"/>child.</l>
+                           <l>with a face like a Man-child,</l>
+                           <l>Amazed in their neſt,</l>
+                           <l>A wake from their reſt</l>
+                           <l>And ſeeke out an Oake to laugh in.</l>
+                           <l>Such a diſmall Chance</l>
+                           <l>Makes the Church-yeard dance</l>
+                           <l>VVhen the Screechowles Guts ſtring a Coffin.</l>
+                           <l>when a Fidlers <hi>Coarce</hi>
+                           </l>
+                           <l>Catches could &amp; growes hoarſe</l>
+                           <l>Oh the never heard a ſadder</l>
+                           <l>when a Roundheaded ſinner</l>
+                           <l>makes his Will before <hi>Dinner,</hi>
+                           </l>
+                           <l>To the Tune of <hi>Nooze</hi> and the <hi>Ladder.</hi>
+                           </l>
+                        </lg>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>This Song pleaſed them all well, and made them very merry.</p>
+            <p>In the middeſt of their Cups, they fell to very deboyſte<g ref="char:EOLhyphen"/>rous and profane diſcourſes, and in the Malignant oration of <hi>Heliconian liquer,</hi> they thought themſelves to be no ſmall fooles but after Dinner they being riſen, ſome of them tooke a nappe to recover a little of their ſences; but in the afternoone the reſt of the Maſque was ſhewne.</p>
+            <p>And accordingly there came in a poore fellow with his Ta<g ref="char:EOLhyphen"/>ber and Pipe, and he fell to playing before them, and tells ſtrange ſtories in <hi>Rime-doggery,</hi> which made them to grinne a little one at another, for they were too much drunke to laugh hartily, and then Mr. <hi>Lloyd</hi> he acted his part and he falls to ſinging for he was ſtill to be the Poet and act his part as Jeſter upon them all.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="song">
+                        <pb n="7" facs="tcp:159685:4"/>
+                        <!-- PDF PAGE 4 -->
+                        <head>The Song upon the man that plaid upon <hi>the Taber and Pipe.</hi>
+                        </head>
+                        <lg>
+                           <l>I, but all will not doe,</l>
+                           <l>without a <hi>Paſſe</hi> or two,</l>
+                           <l>From him that pipes</l>
+                           <l>and tabers the <hi>tatoo.</hi>
+                           </l>
+                           <l>Hee's a man that can tell'em</l>
+                           <l>ſuch a <hi>Jigg</hi> from his <hi>vellam</hi>
+                           </l>
+                           <l>with his <hi>whiſle,</hi> &amp; his <hi>Club,</hi>
+                           </l>
+                           <l>And his brac't halfe <hi>Tubbe</hi>
+                           </l>
+                           <l>that I think</l>
+                           <l>There ne're came before yee</l>
+                           <l>though the <hi>Moths</hi> lodged in't</l>
+                           <l>or in <hi>manuſcript</hi> or <hi>print</hi>
+                           </l>
+                           <l>ſuch a pitifull <hi>Parchment</hi> ſtory</l>
+                           <l>He that hammers like a Tinker</l>
+                           <l>Kettle Muſique is a ſtinker,</l>
+                           <l>our taberer bids him harke it,</l>
+                           <l>though he thraſh till he ſweats</l>
+                           <l>and out the bottom beats</l>
+                           <l>of his two</l>
+                           <l>
+                              <hi>Doſſer Drumes</hi> to the Market</l>
+                        </lg>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>But this ſport they are ſoone weary of, and therefore diſcharge him to be gone.</p>
+            <p>Then they called in the man with the <hi>Bagg-Pipes,</hi> who had a payre three times as big as thoſe which they uſe at Pallace Gar<g ref="char:EOLhyphen"/>den to play before the <hi>Beares</hi> with, for he had gotten a paire of Bag-pipes as bigge at thoſe that <hi>Arthur</hi> of <hi>Bradley</hi> uſed to play with in the North Country, when the young Fellowes and the Laſſes were wont to meet to dance to, under the green Trees, and then they cryed out <hi>oh brave Arthur of Bradley.</hi>
+            </p>
+            <p>This man came in with his <hi>Bag-pipes,</hi> and there he went a<g ref="char:EOLhyphen"/>bout his worke, and ſitting him downe upon a Stoole, to play he went, and pleaſed the Cavaliers and the Courtiers and the reſt that were at the Wakes wondrous well, and Mr. <hi>Lloyd</hi> ſung to them as followeth.</p>
+            <q>
+               <pb facs="tcp:159685:5"/>
+               <!-- PDF PAGE 5 -->
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="song">
+                        <head>Mr. <hi>Loyds</hi> Song to the <hi>Bag-pipes.</hi>
+                        </head>
+                        <lg>
+                           <l>Bag-piper good luck on you</l>
+                           <l>th'art a man for my money</l>
+                           <l>Him the <hi>Beares</hi> love</l>
+                           <l>better then hony</l>
+                           <l>How he tickles with his skill</l>
+                           <l>with his bladder and his quil</l>
+                           <l>How he ſwells till he bliſter</l>
+                           <l>while he gives his mouth a <hi>Gliſter</hi>
+                           </l>
+                           <l>Nor yet does his <hi>P<gap reason="illegible" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>iſick</hi>
+                           </l>
+                           <l>greeve him.</l>
+                           <l>His Chops they wold not tary</l>
+                           <l>For a try'd <hi>Apothecary.</hi>
+                           </l>
+                           <l>But the <hi>Harpe</hi> comes in</l>
+                           <l>to releeve him.</l>
+                        </lg>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>They made ſport a long while with the <hi>Bag-pipes</hi>
+            </p>
+            <p>Then there was a tall ſhag head Ruffen came in with a harpe to conclude the Muſique who plaid many ſeverall leſſons to them, both French, and Iriſh, as well as Engliſh, he plaid alſo a hone, a hone, and to him the Oxford Poet ſung this Leſſon.</p>
+            <q>
+               <lg>
+                  <l>The <hi>Harpe</hi> tooke its fountaine</l>
+                  <l>From the <hi>Boggs</hi> of the mountaine</l>
+                  <l>For better was never aforded</l>
+                  <l>Strings hop and rebound</l>
+                  <l>Oh the very ſame ſounded</l>
+                  <l>May be ſtrung from a <hi>Trucl-bed Coarded.</hi>
+                  </l>
+               </lg>
+            </q>
+            <p>After which the Harper, as the reſt were diſcharged, and the Maſque being ended, and the Oxford blades ſoundly fuddled, they fell to ſinging of Catches, and M. Lloid taught them a new Catch as followeth which they roared out to purpoſe.</p>
+            <div type="epilogue">
+               <head>EPILOGVE.</head>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="song">
+                           <head>The <hi>VVitney</hi> Catch; or concluſion of the Maſque at <hi>Witney</hi> Wakes,</head>
+                           <byline>made by Mr. <hi>Lloyd</hi> the Poet.</byline>
+                           <lg>
+                              <l>Now God a bleſſe <hi>King Charles</hi>
+                              </l>
+                              <l>And ſend him to be merry.</l>
+                              <l>And bring our noble <hi>Queene</hi>
+                              </l>
+                              <l>A ſafe over the <hi>Ferry,</hi>
+                              </l>
+                              <l>The <hi>Prince,</hi> marry ſave him</l>
+                              <l>And the Duke his owne brother</l>
+                              <l>God a bleſſing light upon him,</l>
+                              <l>He is eene ſuch another.</l>
+                              <l>I ſay the <hi>Dukes</hi> worſhip,</l>
+                              <l>For an whoſe ſweet ſake</l>
+                              <l>VVas a Cheefly intended</l>
+                              <l>We of <hi>VVitney,</hi> and the VVake</l>
+                           </lg>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>Some conſiderable addition all lines for concluſion.</p>
+               <q>
+                  <lg>
+                     <l>The King went out of <hi>Oxford,</hi> in private, towards the North,</l>
+                     <l>And with his Majeſty, A Prieſt, and Aſhburnham went forth,</l>
+                     <l>To Southwell then they tooke their way, neare <hi>Newarke</hi> ſiege,</l>
+                     <l>But there the Scotts beſet the Towne, And Soveraigne Leige,</l>
+                     <l>And did the Engliſh then acquaint what they had done,</l>
+                     <l>Both do conſult how they may beſt the King ſend home.</l>
+                  </lg>
+               </q>
+            </div>
+            <trailer>FJNIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
